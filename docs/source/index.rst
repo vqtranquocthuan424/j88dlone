@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+J88 - j88dl.one - Trang chủ nhà cái cập nhật mới nhất năm 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`J88 <https://j88dl.one/>`_ không chỉ là một nhà cái uy tín mà còn nổi tiếng với các chương trình khuyến mãi hấp dẫn dành cho cả thành viên mới và cũ. Từ thưởng chào mừng, hoàn trả cược đến các sự kiện đặc biệt các trò chơi: Thể thao, Đá gà, Xổ số, Bắn cá, Nổ hũ,...  J88 luôn mang đến những cơ hội trúng thưởng cực lớn cho người chơi. Hãy tham gia J88 ngay hôm nay để nhận được những ưu đãi hấp dẫn nhất!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Website: https://j88dl.one/
 
-   This project is under active development.
+Địa chỉ: 23/6 Hồ Văn Long, Bình Hưng Hoà B, Bình Tân, Hồ Chí Minh, Vietnam
 
-Contents
---------
+Email: j88dl.one@gmail.com
 
-.. toctree::
+Phone: 0985440888
 
-   usage
-   api
+tags: #j88, #j88dl_one, #nha_cai_j88, #j88_casino
